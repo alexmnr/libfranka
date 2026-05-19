@@ -13,6 +13,12 @@ git clone https://github.com/alexmnr/libfranka.git
 cd libfranka
 git submodule update --init --recursive
 ```
+
+Install Dependencies:
+```bash
+sudo apt-get install -y build-essential cmake git libpoco-dev  libfmt-dev
+```
+
 Build it:
 ```bash
 mkdir build && cd build
