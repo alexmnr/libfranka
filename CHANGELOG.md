@@ -1,3 +1,4 @@
+#include <stdexcept>
 # CHANGELOG
 
 ## 0.7.1 - 2019-06-08

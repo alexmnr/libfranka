@@ -1,3 +1,4 @@
+#include <stdexcept>
 // Copyright (c) 2018 Franka Emika GmbH
 // Use of this source code is governed by the Apache-2.0 license, see LICENSE
 #pragma once
